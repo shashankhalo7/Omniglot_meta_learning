@@ -12,7 +12,7 @@ If you are new to Meta Learning and Few shot Learning you may find the following
 1) Automatic Machine Learning at NeurIPS 2018 by **Frank Hutter** and **Joaquin Vanschoren** [Link](https://www.youtube.com/watch?v=0eBR8a4MQ30&t=597s)
 2) **Siraj Raval's** Introductory video on Meta Learning [Link](https://www.youtube.com/watch?v=2z0ofe2lpz4)
 3) Meta-Learning and One-Shot Learning [Link](https://www.youtube.com/watch?v=KUWywwvQv8E)<br>
-4) **Ilya Sutskever** talk on OpenAI Meta-Learning and Self-Play at MIT Artificial Intelligence (AI) Podcast [Link](https://www.youtube.com/watch?v=9EN_HoEk3KY&t=222s)<br>
+4) **Ilya Sutskever's** talk on OpenAI Meta-Learning and Self-Play at MIT Artificial Intelligence (AI) Podcast [Link](https://www.youtube.com/watch?v=9EN_HoEk3KY&t=222s)<br>
 
 #### Dataset
 The dataset used in this project is the Omniglot Dataset which is handwritten character dataset which contains 50 alphabets. It is split into a background set of 30 alphabets and an evaluation set of 20 alphabets. It contains 1623 different handwritten characters from 50 different alphabets.Each character has been drawn by 20 different person so for every character of these 50 alphabet we have 20 images.<br>
