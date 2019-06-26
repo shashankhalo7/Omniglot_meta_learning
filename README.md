@@ -1,4 +1,4 @@
-# Omniglot- One Shot Learning using Meta Learning(Learning to learn)
+# Omniglot - One Shot Learning using Meta Learning(Learning to learn)
 ### Author : Shashank Pathak😎😎😎<br>
 Implementing One Shot Learning using Meta Learning on Omniglot Dataset
 
@@ -13,5 +13,16 @@ If you are new to Meta Learning and Few shot Learning you may find the following
 2) **Siraj Raval's** Introductory video on Meta Learning [Link](https://www.youtube.com/watch?v=2z0ofe2lpz4)
 3) Meta-Learning and One-Shot Learning [Link](https://www.youtube.com/watch?v=KUWywwvQv8E)<br>
 4) **Ilya Sutskever** talk on OpenAI Meta-Learning and Self-Play at MIT Artificial Intelligence (AI) Podcast [Link](https://www.youtube.com/watch?v=9EN_HoEk3KY&t=222s)<br>
+
+#### Dataset
+The dataset used in this project is the Omniglot Dataset which is handwritten character dataset which contains 50 alphabets. It is split into a background set of 30 alphabets and an evaluation set of 20 alphabets. It contains 1623 different handwritten characters from 50 different alphabets.Each character has been drawn by 20 different person so for every character of these 50 alphabet we have 20 images.<br>
+
+The dataset can be downloaded from [here](https://github.com/brendenlake/omniglot#citing-this-data-set).There are two type of data available one is the strokes data which contains the timestamped position of the pen strokes in the format `[x,y,t]` where x and y are the coordinates and t is the time in milliseconds. Another is the images data which contains the images of the hand drawn characters. We will be using the images dataset for the one shot classification problem.So download the `images_background.zip` and `images_evaluation.zip` for training and testing data respectively.  
+
+#### Citing this data set
+
+Please cite the following paper:
+
+[Lake, B. M., Salakhutdinov, R., and Tenenbaum, J. B. (2015). Human-level concept learning through probabilistic program induction.](https://arxiv.org/abs/1902.03477) Science, 350(6266), 1332-1338.
 
 **Check the Code posted in this repo for Implementation**(Comming Soon)
