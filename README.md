@@ -1,4 +1,4 @@
-# Omniglot_meta_learning
+# Omniglot Meta Learning(Learning to learn)😎😎😎
 Implementing One Shot Learning using Meta Learning on Omniglot Dataset
 
 ### Resources:
