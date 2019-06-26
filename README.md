@@ -1,5 +1,5 @@
 # Omniglot Meta Learning(Learning to learn)
-###Author : Shashank Pathak😎😎😎<br>
+### Author : Shashank Pathak😎😎😎<br>
 Implementing One Shot Learning using Meta Learning on Omniglot Dataset
 
 ### Resources:
