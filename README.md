@@ -28,4 +28,4 @@ Please cite the following paper:
 
 [Lake, B. M., Salakhutdinov, R., and Tenenbaum, J. B. (2015). Human-level concept learning through probabilistic program induction.](https://arxiv.org/abs/1902.03477) Science, 350(6266), 1332-1338.
 
-**Check the Code posted in this repo for Implementation**(Comming Soon)
+**Check the Code posted in this repo for Implementation** (Comming Soon)
